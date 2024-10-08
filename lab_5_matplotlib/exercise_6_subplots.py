@@ -4,9 +4,9 @@ import numpy as np
 # Data
 x = [1, 2, 3, 4, 5]
 y = [1, 4, 9, 16, 25]
-categories = ['A', 'B', 'C', 'D', 'E']
+categories = ["A", "B", "C", "D", "E"]
 values = [5, 7, 3, 8, 6]
-data = np.random.randn(1000)
+data = np.random.randn(1000) # 1000 random values
 x_scatter = np.random.rand(50)
 y_scatter = np.random.rand(50)
 
