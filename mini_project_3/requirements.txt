@@ -1,0 +1,2 @@
+english-words>=2.0.1
+PyDictionary>=2.0.1
